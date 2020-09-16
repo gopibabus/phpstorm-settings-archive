@@ -2,6 +2,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta q" />
   </action>
@@ -11,6 +14,7 @@
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="Force touch" />
