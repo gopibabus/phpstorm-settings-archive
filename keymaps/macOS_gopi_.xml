@@ -9,10 +9,14 @@
     <keyboard-shortcut first-keystroke="meta q" />
   </action>
   <action id="Exit" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="Jdbc.OpenEditor.DDL">
@@ -20,4 +24,5 @@
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="ParameterInfo" />
 </keymap>
