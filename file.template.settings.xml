@@ -1,0 +1,10 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="PHP Class.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <code_templates>
+      <template name="PHP Setter Method.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>
