@@ -4,7 +4,7 @@
     <property name="created">2020-10-03T19:37:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-10-04T10:01:43</property>
+    <property name="modified">2020-10-04T10:15:18</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
@@ -722,6 +722,12 @@
       <value>
         <option name="FOREGROUND" value="9876aa" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e0957b" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
