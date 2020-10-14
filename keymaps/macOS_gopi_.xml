@@ -6,9 +6,6 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="ChangesView.ShelveSilently" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="meta q" />
-  </action>
   <action id="Exit" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
