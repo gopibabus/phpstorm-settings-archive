@@ -76,6 +76,7 @@
   <action id="InvalidateCaches">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="Force touch" />
@@ -92,6 +93,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="ParameterInfo" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
