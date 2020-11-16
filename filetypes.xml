@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="sqlite" type="SQL" />
     </extensionMap>
   </component>
 </application>
