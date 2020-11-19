@@ -4,6 +4,7 @@
     <option name="cycleCountOnAllBrackets" value="true" />
     <option name="disableRainbowIndentsInZenMode" value="false" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="numberOfColors" value="3" />
     <option name="pressAnyKeyToRemoveTheHighlightingEffects" value="true" />
     <option name="useColorGenerator" value="true" />
     <option name="version" value="6.12.1" />
