@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldReadAloud="true" playSound="true" />
     <notification groupId="PHP External Quality Tools" displayType="NONE" shouldLog="false" />
   </component>
 </application>

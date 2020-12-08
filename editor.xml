@@ -4,15 +4,13 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Monaco" />
+    <option name="FONT_FAMILY" value="IBM Plex Mono" />
     <option name="LINE_SPACING" value="2.0" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code Medium" />
   </component>
   <component name="EditorSettings">
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>
