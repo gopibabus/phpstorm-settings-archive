@@ -13,4 +13,8 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
