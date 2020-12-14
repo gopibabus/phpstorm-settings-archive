@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="db" type="AUTO_DETECTED" />
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
