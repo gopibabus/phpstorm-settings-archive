@@ -1,6 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
+    <option name="mySoundBell" value="false" />
     <option name="myTabName" value="ZSH" />
   </component>
 </application>
