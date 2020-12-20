@@ -57,11 +57,15 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="Exit" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.TogglePathShowing" />
