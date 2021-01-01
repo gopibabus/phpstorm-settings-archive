@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="db" type="AUTO_DETECTED" />
+      <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
