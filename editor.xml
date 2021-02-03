@@ -10,6 +10,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code Medium" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
