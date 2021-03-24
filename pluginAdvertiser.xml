@@ -1546,6 +1546,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.xlf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.espend.idea.localization" />
+              <option name="myPluginName" value="Localization" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xliff">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.espend.idea.localization" />
+              <option name="myPluginName" value="Localization" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.xls">
           <value>
             <plugin>
@@ -1802,6 +1818,22 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".xlf.*">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.espend.idea.localization" />
+              <option name="myPluginName" value="Localization" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".xliff.*">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.espend.idea.localization" />
+              <option name="myPluginName" value="Localization" />
             </plugin>
           </value>
         </entry>

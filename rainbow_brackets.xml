@@ -5,6 +5,7 @@
     <option name="disableRainbowIndentsInZenMode" value="false" />
     <option name="numberOfColors" value="3" />
     <option name="rainbowifyTagNameInXML" value="true" />
+    <option name="suppressBigFileCheck" value="true" />
     <option name="useColorGenerator" value="true" />
     <option name="version" value="6.17" />
   </component>
