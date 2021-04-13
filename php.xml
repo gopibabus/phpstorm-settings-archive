@@ -1,11 +1,5 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="d12f0988-1893-4b35-8475-13db92cf472f" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="9883f0da-b4b2-4536-b22f-93dd322a0579" name="PHP 7.2" home="/Applications/MAMP/bin/php/php7.2.22/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
