@@ -6,9 +6,6 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="couchbase_query">
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="db2.11">
       <option name="auto-sync" value="false" />
     </driver>
@@ -62,7 +59,7 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
+      <artifact use="false" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="format-sources-on-sync" value="true" />
@@ -75,15 +72,6 @@
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="oracle.19">
-      <artifact id="Oracle" name="Oracle" use="true" version="19.8.0.0" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="oracle">
       <option name="auto-sync" value="true" />
@@ -116,6 +104,18 @@
     </driver>
     <driver id="vertica">
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="couchbase_query" name="">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle.19" name="">
+      <artifact id="Oracle" name="Oracle" use="true" version="19.8.0.0" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
   </component>
 </application>
