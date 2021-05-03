@@ -7,13 +7,24 @@
   </action>
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
+  <action id="CollapseSelection" />
   <action id="Console.TableResult.NavigateForeignAction">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="InsertLiveTemplate" />
+  <action id="ParameterInfo" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
