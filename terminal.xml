@@ -1,7 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
-    <option name="myShellPath" value="C:\Program Files\Git\bin\bash.exe" />
+    <option name="myShellPath" value="H:\Git\bin\bash.exe" />
     <option name="mySoundBell" value="false" />
     <option name="myTabName" value="Bash" />
   </component>
