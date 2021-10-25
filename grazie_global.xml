@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="Always 3" />
+            <option value="is no suitable cached response" />
           </set>
         </option>
       </SuppressingContext>
