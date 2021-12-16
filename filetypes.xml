@@ -7,6 +7,7 @@
       <mapping ext="php " type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
