@@ -4,7 +4,7 @@
     <interpreters>
       <interpreter id="d12f0988-1893-4b35-8475-13db92cf472f" name="PHP 7.3" home="\usr\bin\php" debugger_id="php.debugger.XDebug" />
       <interpreter id="9883f0da-b4b2-4536-b22f-93dd322a0579" name="PHP 8.0" home="C:\MAMP\bin\php\php8.0.1\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="761e950e-8bbb-4bbf-9283-60bd41297bc0" name="PHP 7.4" home="\usr\local\Cellar\php@7.4\7.4.19\bin\php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="761e950e-8bbb-4bbf-9283-60bd41297bc0" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.19/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
