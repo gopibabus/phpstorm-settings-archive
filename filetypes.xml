@@ -8,6 +8,7 @@
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="php " type="PHP" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
