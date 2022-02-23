@@ -13,6 +13,7 @@
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
+      <mapping pattern="post-commit" type="Shell Script" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping pattern="env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
