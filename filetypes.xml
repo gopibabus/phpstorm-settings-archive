@@ -1,18 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <hashBang value=".ini" type=".env file" />
       <mapping pattern="docker-compose" type="AUTO_DETECTED" />
+      <mapping pattern="manifest" type="AUTO_DETECTED" />
+      <mapping pattern="sample" type="AUTO_DETECTED" />
       <mapping ext="db" type="AUTO_DETECTED" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="php " type="PHP" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
+      <mapping pattern=".env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
-      <mapping pattern="vhost.conf" type="htaccess" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
