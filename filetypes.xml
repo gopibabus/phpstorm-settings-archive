@@ -3,6 +3,7 @@
     <extensionMap>
       <hashBang value=".ini" type=".env file" />
       <mapping pattern="docker-compose" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="manifest" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="AUTO_DETECTED" />
       <mapping ext="db" type="AUTO_DETECTED" />
