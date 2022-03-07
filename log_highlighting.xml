@@ -5,12 +5,18 @@
       <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
       <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
       <LogHighlightingPattern pattern="^\s*c(ritical)?\s*$" action="HIGHLIGHT_LINE" fg="-65536" stripe="true" />
+      <LogHighlightingPattern pattern="^\s*(?:PHP\s*)?e(rror)?\s*$" stripe="true" />
+      <LogHighlightingPattern pattern="^\s*(?:PHP\s*)?w(arn(ing)?)?\s*$" stripe="true" />
+      <LogHighlightingPattern pattern="^\s*(?:PHP\s*)?i(nfo)?\s*$" stripe="true" />
+      <LogHighlightingPattern pattern="^\s*(?:PHP\s*)?n(otice)?\s*$" stripe="true" />
+      <LogHighlightingPattern pattern="^\s*(?:PHP\s*)?f(?:atal(?:\s*error)?)?\s*$" stripe="true" />
     </highlightingPatterns>
     <parsingPatterns>
       <LogParsingPattern name="Pipe-separated" pattern="^(?s)([^|]*)\|([^|]*)\|([^|]*)\|(.*)$" timePattern="HH:mm:ss.SSS" linePattern="^\d" timeId="0" severityId="1" categoryId="2" />
       <LogParsingPattern name="IntelliJ IDEA" pattern="^([^\[]+)(\[[\s\d]+])\s*(\w*)\s*-\s*(\S*)\s*-(.+)$" timePattern="yyyy-MM-dd HH:mm:ss,SSS" linePattern="^\d" timeId="0" severityId="2" categoryId="3" />
       <LogParsingPattern name="TeamCity build log" pattern="^\[([^]]+)](.):\s*(\[[^]]+])?(.*)$" timePattern="HH:mm:ss" linePattern="^\[" timeId="0" severityId="1" categoryId="2" />
       <LogParsingPattern name="Symfony" pattern="^\[((?:\d{4}-\d{2}-\d{2})[\sT]\d{2}:\d{2}:\d{2})(?:\.\d+\+\d{2}:\d{2})?\]\s+([^.]+)\.([^:]+):\s+(.*)$" timePattern="yyyy-MM-dd.HH:mm:ss" linePattern="^\[" timeId="0" severityId="2" categoryId="1" fullmatch="true" />
+      <LogParsingPattern name="CI4" pattern="^\[([^]]+)\s*America/Denver\]\s+([\w\s]+)[.:]\s+(.+)$" timePattern="dd-MMM-yyyy HH:mm:ss" linePattern="^\[" timeId="0" severityId="1" />
     </parsingPatterns>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>

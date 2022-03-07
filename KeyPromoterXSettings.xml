@@ -1,5 +1,8 @@
 <application>
   <component name="KeyPromoterXSettings">
-    <option name="installedVersion" value="2021.1.1" />
+    <option name="showTipsClickCount" value="10" />
+    <option name="disabledInPresentationMode" value="true" />
+    <option name="disabledInDistractionFreeMode" value="true" />
+    <option name="installedVersion" value="2021.3" />
   </component>
 </application>
