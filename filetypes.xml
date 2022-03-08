@@ -11,6 +11,7 @@
       <mapping ext="php " type="PHP" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".docker.env" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
