@@ -1,0 +1,9 @@
+<application>
+  <component name="IndentRainbowConfig">
+    <option name="customPaletteNumberColors" value="10" />
+    <option name="disableOnBigFiles" value="false" />
+    <option name="enabled" value="false" />
+    <option name="opacityMultiplier" value="-0.52" />
+    <option name="paletteType" value="CUSTOM" />
+  </component>
+</application>
