@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <hashBang value=".ini" type=".env file" />
       <mapping pattern="docker-compose" type="AUTO_DETECTED" />
       <mapping pattern="manifest" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="AUTO_DETECTED" />
@@ -23,6 +22,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
+      <hashBang value=".ini" type=".env file" />
     </extensionMap>
   </component>
 </application>
