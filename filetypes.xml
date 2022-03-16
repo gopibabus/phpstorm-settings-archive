@@ -13,6 +13,7 @@
       <mapping pattern=".docker.env.example" type="PLAIN_TEXT" />
       <mapping pattern=".docker.env" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping pattern=".env" type="Shell Script" />
