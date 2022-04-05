@@ -12,13 +12,13 @@
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".docker.env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".docker.env" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping pattern=".env" type="Shell Script" />
+      <mapping pattern=".docker.env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
       <removed_mapping ext="env" approved="true" type=".env file" />
