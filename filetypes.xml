@@ -15,6 +15,7 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sh," type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
