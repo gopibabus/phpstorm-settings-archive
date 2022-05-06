@@ -16,6 +16,7 @@
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="sh," type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping pattern=".docker.env" type="Shell Script" />
