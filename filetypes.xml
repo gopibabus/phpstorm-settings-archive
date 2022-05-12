@@ -15,14 +15,20 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="sh," type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping pattern=".docker.env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
+      <mapping pattern="bp.local.nasinsurance.com" type="textmate" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
     </extensionMap>
