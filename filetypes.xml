@@ -6,6 +6,7 @@
       <mapping pattern="manifest" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="AUTO_DETECTED" />
       <mapping ext="db" type="AUTO_DETECTED" />
+      <mapping pattern="personal.xml" type="Diagrams.net Diagram" />
       <mapping pattern="Dockerfile.mysql" type="Dockerfile" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="bp.local.nasinsurance.com" type="Nginx Configuration" />
@@ -20,8 +21,8 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sh," type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
-      <mapping pattern=".env" type="Shell Script" />
       <mapping pattern=".docker.env" type="Shell Script" />
+      <mapping pattern=".env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
