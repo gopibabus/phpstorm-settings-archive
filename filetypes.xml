@@ -26,6 +26,7 @@
       <mapping pattern=".env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
+      <mapping pattern="vhost.conf" type="htaccess" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="env" approved="true" type=".env file" />
