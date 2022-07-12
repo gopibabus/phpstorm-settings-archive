@@ -1,12 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <hashBang value=".ini" type=".env file" />
       <mapping pattern="docker-compose" type="AUTO_DETECTED" />
       <mapping pattern="manifest" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="AUTO_DETECTED" />
       <mapping ext="db" type="AUTO_DETECTED" />
+      <mapping pattern="personal.xml" type="Diagrams.net Diagram" />
       <mapping pattern="Dockerfile.mysql" type="Dockerfile" />
       <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern="bp.local.nasinsurance.com" type="Nginx Configuration" />
+      <mapping ext="com" type="Nginx Configuration" />
       <mapping ext="php " type="PHP" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
@@ -15,12 +19,14 @@
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="sh," type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
-      <mapping pattern=".env" type="Shell Script" />
       <mapping pattern=".docker.env" type="Shell Script" />
+      <mapping pattern=".env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
+      <mapping pattern="vhost.conf" type="htaccess" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="env" approved="true" type=".env file" />
@@ -29,9 +35,6 @@
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
-      <mapping ext="com" type="Nginx Configuration" />
-      <mapping pattern="bp.local.nasinsurance.com" type="Nginx Configuration" />
-      <hashBang value=".ini" type=".env file" />
     </extensionMap>
   </component>
 </application>
