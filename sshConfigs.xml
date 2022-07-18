@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="192.168.20.20" id="05b6bbf7-a471-4108-8539-18d65a685c12" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="ubuntu@192.168.20.20" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.20.20" id="05b6bbf7-a471-4108-8539-18d65a685c12" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="ubuntu@192.168.20.20" nameFormat="CUSTOM" username="ubuntu">
         <option name="customName" value="ubuntu@192.168.20.20" />
       </sshConfig>
     </configs>
