@@ -2,6 +2,7 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
@@ -17,6 +18,12 @@
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseObjectLiterals" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
+    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
