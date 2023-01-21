@@ -8,7 +8,6 @@
       <mapping ext="db" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.mysql" type="Dockerfile" />
       <mapping pattern=".prettierrc" type="JSON" />
-      <mapping ext="conf" type="Nginx Configuration" />
       <mapping ext="php " type="PHP" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
@@ -22,11 +21,11 @@
       <mapping ext="sqlite" type="SQL" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping pattern=".docker.env" type="Shell Script" />
-      <removed_mapping ext="conf" type="SmartyConfig" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
       <mapping pattern="vhost.conf" type="htaccess" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
