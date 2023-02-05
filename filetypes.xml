@@ -6,6 +6,7 @@
       <mapping pattern="manifest" type="AUTO_DETECTED" />
       <mapping pattern="sample" type="AUTO_DETECTED" />
       <mapping ext="db" type="AUTO_DETECTED" />
+      <mapping pattern="WebServerDockerfile" type="Dockerfile" />
       <mapping pattern="Dockerfile.mysql" type="Dockerfile" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="php " type="PHP" />
@@ -19,8 +20,8 @@
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="sh," type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
-      <mapping pattern=".env" type="Shell Script" />
       <mapping pattern=".docker.env" type="Shell Script" />
+      <mapping pattern=".env" type="Shell Script" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="dist" type="YAML" />
       <mapping pattern="vhost.conf" type="htaccess" />
